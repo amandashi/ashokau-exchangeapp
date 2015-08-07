@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Exchange Application feature.
+ */
+
+include_once 'exchange_application.features.inc';
